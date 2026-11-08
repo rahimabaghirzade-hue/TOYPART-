@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Kənd Toyu — Halay Oyunu",
+  "description": "Azərbaycan kənd toyu və yallı rəqs meydançası: personajlar, milli musiqi pleyeri və TikTok hədiyyə qarşılama sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
